@@ -1,0 +1,37 @@
+
+.new-expense_controls{
+    margin-left: 28vw;
+    margin-top: 2%;
+    font-size: 25px;
+    border: 2px solid black;
+    width: 40vw;
+    height: 60vh;
+    text-align: center;
+    justify-items: center;
+    background-color: rgb(24, 21, 21);
+    border-radius: 7px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.new-expense_control{
+    margin-top: 20px;
+}
+input{
+    height: 30px;
+    width: 300px;
+    border: 2px solid white;
+    border-radius: 15px;
+}
+h1{
+    font-size: larger;
+}
+button{
+    margin-top: 5%;
+    height: 50px;
+    width: 130px;
+    color: white;
+    background-color: rgb(214, 20, 56);
+    border-radius: 20px;
+    border: 2px solid black;
+    font-size: medium;
+}
